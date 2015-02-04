@@ -2599,6 +2599,7 @@ if you put lazy in front of a property declaration, it means
 601
 00:25:45,496 --> 00:25:49,230
 it does not get initialized until someone accesses it.
+直到它被使用
 
 602
 00:25:50,333 --> 00:25:53,467
